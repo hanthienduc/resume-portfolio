@@ -4,7 +4,7 @@
     "occupation": "Programmer",
     "description": "I eat, sleep and breathe Javascript",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Han!. I've been learning to code for over a 1 years now. As a Junior programmer I've been learning both front-end and back-end technology, with the hope of becoming an excellent programmer in the near future, I always challenge myself in learning new programming skills, tools, and techniques. During the journey I gradually bulding my passion in programming. With passion now have been clear, I will try my best to build better products and services for my future companies and clients. ",
+    "bio": "Hi there! I am Han!. My objective is to create and maintain optimally functional websites and applications as tools in achieving the company’s mission and vision. As a part of a competent web developing team, I intend to generate maximum traffic to these projects by showcasing high-quality SEO content, user- and mobile-friendly navigation, and promotion to as many social media platforms as possible. My years of experience enriched my understanding and skills in web development by working with projects across widely varied niches. One of my goals includes constantly improving my expertise in web development. This being said, I look forward to becoming a useful part of the company.",
     "contactmessage": "Get in touch with me!",
     "email": "hanthienduc.96gmail.com",
     "phone": "+81 08025662538",
@@ -58,6 +58,12 @@
         "degree": "College Degree, Information media & Technology",
         "graduated": "March 2020",
         "description": "Graduated with Good results."
+      },
+      {
+        "school": "Udemy",
+        "degree": "Web Development Bootcamp",
+        "graduated": "March 2020",
+        "description": "Completed"
       }
     ],
     "work": [
@@ -65,12 +71,24 @@
         "company": "Adecco",
         "title": "Junior programmer",
         "years": "May 2020 - Present",
-        "description": "Aspire to become a Full-Stack programmer in the the near future. strong ability to adap to new programming languages, tools, technology and Framework. "
+        "description": "Developed Web pages based on design specifications. Integrated new features into existing Web applications. Maintained templates and content management systems. Assisted in testing and deploying Web applications. Coordinated with Graphic Designers in developing animations and interactive content. Ensured that Website was in compliance with image and branding requirements. Monitored Website performance and recommended improvements. Evaluated functionality and accessibility of Web Pages."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Django",
         "level": "50%"
       },
       {
@@ -81,35 +99,38 @@
         "name": "Git",
         "level": "50%"
       },
-      {
-        "name": "JavaScript",
-        "level": "50%"
-      },
+     
       {
         "name": "Web Development",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Netflix Clone (React JS)",
+        "title": "Netflix (React JS)",
         "category": "",
         "image": "netflix.PNG",
         "url": "https://netflix-clone-7ab4a.web.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Gmail (React JS)",
         "category": "",
         "image": "gmail.PNG", 
         "url": "https://clone-408af.web.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "LinkedIn (React JS)",
         "category": "",
         "image": "linkedin.PNG",
         "url": "https://linkedin-clone-e2789.web.app/"
+      },
+      {
+        "title": "Covid Tracker",
+        "category": "",
+        "image": "covid-tracker.PNG",
+        "url": "https://covid-tracker-5acb1.web.app/"
       }
     ]
   },
