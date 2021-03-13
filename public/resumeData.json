@@ -50,26 +50,26 @@
       {
         "school": "FPT Polytechnic College",
         "degree": "Higher Diploma Degree, Computer Programming",
-        "graduated": "March 2020",
+        "graduated": "July 2014 - December 2016",
         "description": "Graduated with First Class Honours"
       },
       {
         "school": "Yamaguchi Junior College",
         "degree": "College Degree, Information media & Technology",
-        "graduated": "March 2020",
+        "graduated": "April 2018 - March 2020",
         "description": "Graduated with Good results."
       },
       {
         "school": "Udemy",
         "degree": "Web Development Bootcamp",
-        "graduated": "March 2020",
-        "description": "Completed"
+        "graduated": "December 2020 - February 2021",
+        "description": "A Web Development Course Instructed by Dr. Angela Yu"
       }
     ],
     "work": [
       {
         "company": "Adecco",
-        "title": "Junior programmer",
+        "title": "Junior System Engineer",
         "years": "May 2020 - Present",
         "description": "Developed Web pages based on design specifications. Integrated new features into existing Web applications. Maintained templates and content management systems. Assisted in testing and deploying Web applications. Coordinated with Graphic Designers in developing animations and interactive content. Ensured that Website was in compliance with image and branding requirements. Monitored Website performance and recommended improvements. Evaluated functionality and accessibility of Web Pages."
       }
@@ -109,28 +109,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Netflix (React JS)",
+        "title": "Netflix (Reactjs)",
         "category": "",
         "image": "netflix.PNG",
         "url": "https://netflix-clone-7ab4a.web.app/"
       },
       {
-        "title": "Gmail (React JS)",
+        "title": "Gmail (Reactjs)",
         "category": "",
         "image": "gmail.PNG", 
         "url": "https://clone-408af.web.app/"
       },
       {
-        "title": "LinkedIn (React JS)",
+        "title": "LinkedIn (Reactjs)",
         "category": "",
         "image": "linkedin.PNG",
         "url": "https://linkedin-clone-e2789.web.app/"
       },
       {
-        "title": "Covid Tracker",
+        "title": "Covid Tracker (Reactjs)",
         "category": "",
         "image": "covid-tracker.PNG",
         "url": "https://covid-tracker-5acb1.web.app/"
+      },
+      {
+        "title": "Youtube (Reactjs)",
+        "category": "",
+        "image": "youtube.PNG",
+        "url": "https://clone-be682.web.app/"
       }
     ]
   },
